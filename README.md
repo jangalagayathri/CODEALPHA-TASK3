@@ -12,5 +12,8 @@ OBJECTIVE: THE OBJECTIVE OF THIS PROJECT IS TO A Develop This project requires y
 whiteboards for writing or drawing, videoconversations involving several people, datencryption and user authentication, and video capture.It gives you experience with various tools and libraries
 and insight into popular frameworks.
 
+OUTPUT:-
+![image](https://github.com/user-attachments/assets/9cb4c177-23dd-478c-a27f-10a6455e73f5)
+![image](https://github.com/user-attachments/assets/9c10cea2-0c8b-4da3-a072-9d315d0d55bf)
 
 
